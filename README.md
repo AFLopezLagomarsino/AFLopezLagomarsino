@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, javascript or sequelize**
 
-- 📫 How to reach me **my gmail is adnresinfernoxii@gmail.com**
+- 📫 How to reach me **my gmail is andresinfernoxii@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/AFLopezLagomarsino?tab=repositories](https://github.com/AFLopezLagomarsino?tab=repositories)
 
